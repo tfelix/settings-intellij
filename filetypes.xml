@@ -5,6 +5,7 @@
       <mapping pattern="V4_0_0_0__Add_PaymentMethodInvoice.sql" type="PLAIN_TEXT" />
       <mapping ext="vm" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
+      <mapping pattern="MS-1131-already-taken-project-identifier" type="YAML" />
     </extensionMap>
   </component>
 </application>
