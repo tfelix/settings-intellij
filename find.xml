@@ -14,10 +14,10 @@
     <mask>logback.xml</mask>
     <mask>build.gradle</mask>
     <mask>*.sql</mask>
-    <mask>*.java</mask>
     <mask>*.gradle</mask>
     <mask>*.yml</mask>
     <mask>*.kt</mask>
     <mask>*.md</mask>
+    <mask>*.java</mask>
   </component>
 </application>
