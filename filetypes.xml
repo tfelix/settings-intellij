@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="V4_0_0_0__Add_PaymentMethodInvoice" type="PLAIN_TEXT" />
+      <mapping pattern="V7_0_0_0__Adds_SendMailInvoice_Table" type="PLAIN_TEXT" />
       <mapping pattern="V4_0_0_0__Add_PaymentMethodInvoice.sql" type="PLAIN_TEXT" />
       <mapping ext="vm" type="PLAIN_TEXT" />
       <mapping ext="mockmaker" type="PLAIN_TEXT" />
