@@ -5,6 +5,7 @@
       <mapping pattern="V4_0_0_0__Add_PaymentMethodInvoice" type="PLAIN_TEXT" />
       <mapping pattern="V10_0_0_0__Adds_Billable_As_Customer_State" type="PLAIN_TEXT" />
       <mapping pattern="releases" type="PLAIN_TEXT" />
+      <mapping pattern="version" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="V4_0_0_0__Add_PaymentMethodInvoice.sql" type="PLAIN_TEXT" />
       <mapping ext="vm" type="PLAIN_TEXT" />
