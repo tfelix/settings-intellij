@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*Controller.kt" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -23,7 +23,7 @@
     <mask>build.gradle</mask>
     <mask>*.md</mask>
     <mask>.gitignore</mask>
-    <mask>*.sql</mask>
     <mask>*Controller.kt</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
