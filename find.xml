@@ -20,9 +20,9 @@
     <mask>*gradle.build</mask>
     <mask>*.kt</mask>
     <mask>build.gradle</mask>
-    <mask>*.md</mask>
     <mask>.gitignore</mask>
     <mask>*Controller.kt</mask>
     <mask>*.sql</mask>
+    <mask>*.md</mask>
   </component>
 </application>
