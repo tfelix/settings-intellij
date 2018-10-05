@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
@@ -16,15 +14,15 @@
     <mask>logback.xml</mask>
     <mask>*.vm</mask>
     <mask>*build.gradle</mask>
-    <mask>*.yml</mask>
     <mask>*.gradle</mask>
     <mask>*.java</mask>
     <mask>*gradle.build</mask>
-    <mask>*.kt</mask>
     <mask>build.gradle</mask>
     <mask>.gitignore</mask>
     <mask>*Controller.kt</mask>
     <mask>*.sql</mask>
+    <mask>*.kt</mask>
     <mask>*.md</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
