@@ -1,10 +1,25 @@
 <keymap version="1" name="Default copy" parent="$default">
+  <action id="ChangesView.GroupBy.Directory" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
+  <action id="EditorSelectWord" />
+  <action id="ExpressionTypeInfo" />
+  <action id="FileChooser.GotoProject">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="ParameterInfo" />
   <action id="QuickImplementations" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="shift ctrl i" />
   </action>
+  <action id="Scala.ShowImplicitArguments" />
   <action id="Scala.ShowImplicits">
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt add" />
+  </action>
+  <action id="ShowSettings">
+    <keyboard-shortcut first-keystroke="shift ctrl p" />
   </action>
 </keymap>
